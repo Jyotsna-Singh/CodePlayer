@@ -14,6 +14,9 @@ CodePlayer is a live pastebin for HTML, CSS & JavaScript. User can hide/unhide a
  [CodePlayer](http://jyotsnasingh.com/projects/JavaScript/CodePlayer/)
 
 ## Usage
+Enter HTML, CSS, javaScript in the respective blocks. Add or remove blocks by clicking on the block name. Live output is visible on the output screen block  
+
+![alt text](https://github.com/Jyotsna-Singh/CodePlayer/blob/master/Demo.png "CodePlayer")
   
 
 ## Vendors
